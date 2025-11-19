@@ -1,4 +1,3 @@
-
 module lab2a(
 
 	input [3:0] v,
@@ -48,3 +47,4 @@ up_counter_4bit u2 (
 );
 
 endmodule
+
